@@ -1,0 +1,107 @@
+body{
+    Background-color: #3aba0b;
+}
+
+.One{
+    Background-color: hwb(310 6% 5%);
+Text-align: Center;
+Font-size: 50px;
+color: #890510;
+}
+
+
+h3 {
+    Text-align: center;
+}
+
+div{
+    Background-color: #80bbfb;
+    Font-size: 28px;
+    color: #fb5203;
+}
+
+.Three {
+    Background-color: #8c11ab;
+    Font-size: 40px;
+    Text-align: Center;
+    color: #e61022;
+}
+
+.Four{
+   Background-color: #b0c210;
+Text-align: Center;
+Font-size: 50px;
+}
+
+
+.Thirteen {
+    Background-color: #ab2270;
+    Font-size: 28px;
+    color: #4000ff;
+}
+
+.Sixteen {
+    Background-color: #d694e3;
+    Text-align: Center;
+    Font-size: 30px;
+}
+
+.Fourteen {
+    Background-color: #96f408de;
+    Text-align: Center;
+    Font-size: 28px;
+    color: #8b1f5c;
+}
+
+.Fifteen {
+    Background-color: #bd8af8;
+    Font-size: 28px;
+    color: #4843ad;
+}
+
+.Sixteen {
+    Background-color: #4e98c7;
+    Text-align: Center;
+    Font-size: 30px;
+    color: #94c916;
+}
+
+.Seventeen {
+    Background-color: hsla(330, 22%, 70%, 0.875);
+    Font-size: 28px;
+    color: #dff70fcf;
+}
+
+.Eighteen {
+    Background-color: #b9ed6b;
+    Text-align: Center;
+    Font-size: 30px;
+    color: #b33064;
+
+}
+
+.Nineteen {
+    Background-color: #ded5fe;
+    Font-size: 28px;
+    color: #c4a91d;
+}
+
+
+
+P {
+    Border-radius: 20px;
+    Padding: 6px;
+    Border: 6px dotted hsl(309, 38%, 85%);
+}
+
+.button {
+    Border: 6px double #e30b0f;
+    padding: 11px;
+}
+
+Img {
+    Border: 13px double #fcb1ed;
+    padding: 10px;
+    Border-radius: 15px;
+}
+
